@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Chat Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Reactive Spring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular/employeemanager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-service-discovery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git/sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-moments" vcs="Git" />
+  </component>
+</project>
